@@ -8,7 +8,7 @@ A real-time **pets buying and selling** platform that connects **pet sellers** w
 
 | Splash Screen | Login Page | Register Page | Home Page |
 |---------------|------------|----------------|------------|
-| ![](/miniproject/asset/esplash.jpeg) | ![](assets/screenshots/login.jpeg) | ![](assets/screenshots/register.jpeg) | ![](assets/screenshots/home.jpeg) |
+| ![](/Empetx/asset/esplash.jpeg) | ![](assets/screenshots/login.jpeg) | ![](assets/screenshots/register.jpeg) | ![](assets/screenshots/home.jpeg) |
 
 | Buyer Page | Buying Page | Seller Page | Add Details Page |
 |------------|-------------|--------------|-------------------|
